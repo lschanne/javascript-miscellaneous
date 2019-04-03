@@ -1,0 +1,13 @@
+#### Version 1.0 ####
+Pretty much a very simple implementation of the classic game of Asteroids.
+
+For now, there will be a set number of asteroids that are randomly generated.
+Each one will maintain a consist velocity and radius throughout.
+
+We will screen wrap around the edges.
+
+I might even add a timer at the top right. TBD.
+
+The first pass will borrow heavily from 
+~/miscellaneous/CodingMath/Ep10-Advanced-Acceleration
+
